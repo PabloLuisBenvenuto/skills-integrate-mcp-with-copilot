@@ -1,4 +1,7 @@
-# Compiled source #
+*.db
+*.db-shm
+*.db-wal
+__pycache__/# Compiled source #
 ###################
 *.com
 *.class
